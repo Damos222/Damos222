@@ -1,16 +1,32 @@
-### Hi there 👋
+# Hello, I'm David!
 
-<!--
-**Damos222/Damos222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 24-year-old developer who loves skiing, playing football, and cycling. I'm passionate about software development and enjoy working with a variety of languages and frameworks, including Java, Python, Spring, React, JavaScript, and TypeScript.
+Feel free to explore my GitHub repositories and connect with me on social media. I'd love to hear from you!
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Java
+- React
+- JavaScript
+- TypeScript
+- Python
+- Spring
+- React
+- Flask
+- Git
+- Linux
+- Intellij Idea
+- Pycharm
+- Visual Studio Code
+- Docker
+- Google Cloud
+
+## Projects
+
+[Add a list of your top projects here. Include a brief description, link to the repository, and any other relevant information.]
+
+## Contact Me
+
+- https://www.linkedin.com/in/david-moschitz-dev/
+
+
