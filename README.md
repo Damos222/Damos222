@@ -1,6 +1,6 @@
 # Hello, I'm David!
 
-I'm a developer who loves skiing, playing football, and cycling. I'm passionate about software development and enjoy working with a variety of languages and frameworks, including Java, Python, Spring, React, JavaScript, and TypeScript.
+I'm passionate about software development and enjoy working with a variety of languages and frameworks, including Java, Python, Spring, React, JavaScript, and TypeScript.
 Feel free to explore my GitHub repositories and connect with me on social media. I'd love to hear from you!
 
 ## Skills
